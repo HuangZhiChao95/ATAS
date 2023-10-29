@@ -4,6 +4,7 @@ This repository contains the code for reproducing ATAS, of our paper: [Fast Adve
 
 
 ## Prerequisites
+The code is tested under the following environment and it should be compatible with other versions of python and pytorch.
 - python 3.6.8
 - pytorch 1.4.0, torchvision 0.5.0
 - Install autoattack with 
